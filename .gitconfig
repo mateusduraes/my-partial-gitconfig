@@ -1,0 +1,5 @@
+[user]
+	email = mduraes1994@gmail.com
+	name = Mateus Durães
+[alias]
+  lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --branches
